@@ -16,16 +16,18 @@ Old placeholder:
 
 ## Divine island or region
 
-Current strongest working name:
+Current recommended setup:
 
-- **The Divine Wheel**
+- **The Crowned Isle** — formal/geographic name.
+- **The Divine Wheel** — common name based on the twelve radial domiciles.
+
+This allows the place to work as both a map location and a mythic symbol.
 
 Other possible names:
 
 - The Domicile Wheel
 - The Godwheel
 - The Isle of Twelve
-- The Crowned Isle
 - The Sanctum Wheel
 - The Radiant Wheel
 - The Aureate Ring
@@ -46,10 +48,20 @@ Other possible names:
 - The Root Beneath Miracles
 - The Crownroot Tree
 
+Current visual direction:
+
+- white bark
+- faint gold veins
+- pale star-like flowers
+- twelve largest roots extending beneath the divine domiciles
+- moonlike glow at night
+- roots that resemble roads, veins, and boundary lines
+
 Current lore direction:
 
 - The gods believe the Crownroot is the source of their magic.
 - The Crownroot does provide healing and magical effects.
+- The twelve largest roots stabilize the twelve divine domiciles.
 - Secretly, it may be related to the Aster Forest.
 - The gods may have mistaken a branch or conduit for the true source.
 
@@ -72,8 +84,11 @@ Other possible names:
 Current lore direction:
 
 - Publicly seen as a multi-affinity god or overseer of outliers.
+- Does not occupy one of the twelve wedge-shaped domiciles.
+- Resides in the circular sanctuary around the Crownroot.
 - Secretly connected to the Aster Forest.
 - Possibly Lyseria's mother by relation, recognition, or origin rather than biology.
+- Respected and tolerated by the gods, but also quietly feared or treated with unease.
 
 ## Divine recognition terms
 
@@ -153,8 +168,12 @@ Current strongest setup:
 
 - exact 12 god domains
 - visual layout of each divine domicile
+- exact map placement of the Crowned Isle
+- whether ordinary pilgrims can access only outer shrines
 - which god invited Vivienne
+- what rank Vivienne reached before defecting
 - why Vivienne defected
+- whether Vivienne is barred only from her former domicile or from the whole Crowned Isle
 - whether the Rootwarden is truly a god
 - whether the gods remember the origin of the Crownroot
 - whether Lyseria knows the Rootwarden's connection to her

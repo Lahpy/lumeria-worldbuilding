@@ -53,13 +53,13 @@ The gods are intentionally kept distant for now.
 
 They are real and influential, but they are not the deepest origin of reality or magic.
 
-The gods dwell within a sacred island or region arranged in a radial pattern. Each section belongs to a different divine domicile. At the center stands a great tree currently referred to as the **Crownroot**.
+The gods dwell within a half-physical sacred island-region formally called **The Crowned Isle**. Most people call it **The Divine Wheel** because it is arranged in a radial pattern. Each wedge belongs to a divine domicile, and at the center stands the great tree known as the **Crownroot**.
 
-Working name for the divine island/region:
-
-- **The Divine Wheel**
+The Crowned Isle can appear on world maps, and ships can approach its surrounding waters, but ordinary people cannot freely land or enter. Its inner geography is distorted by divine magic and only becomes accessible through invitation, permission, trial, or special exception.
 
 There are currently **12 gods** as a placeholder, but the number of gods can change. A mortal or unique being can potentially become so powerful, complete, and distinct that they are recognized as a new god with a new domain.
+
+Each domicile should be treated as a full divine city-domain, not just a temple or palace. It can contain servants, ranked disciples, libraries, training grounds, sanctuaries, trial areas, divine beasts, and domain-specific ecosystems.
 
 ## Divine Acts and invitations
 
@@ -100,11 +100,13 @@ Vivienne Valemont is expected to be Forsworn.
 
 The overseer of the Crownroot is currently called the **Rootwarden**.
 
-Publicly, she may be interpreted as a multi-affinity god or a divine figure responsible for outliers.
+She does not have one of the twelve wedge-shaped domiciles. Instead, she resides in the circular sanctuary around the Crownroot at the center of the Divine Wheel.
+
+Publicly, she may be interpreted as a multi-affinity god, a neutral divine figure, or the keeper of outliers who do not belong to one clean domain.
 
 Secretly, she may be connected to the Aster Forest and to Lyseria. She may function as Lyseria's mother by relation, origin, recognition, or spiritual lineage rather than biology.
 
-The Rootwarden is more open-minded toward Lyseria because she is less bound by the gods' normal categories.
+The Rootwarden is more open-minded toward Lyseria because she is less bound by the gods' normal categories. The other gods respect and tolerate the Rootwarden because the Wheel depends on the Crownroot, but they are uneasy around her because she stands closer to the center than any of them.
 
 ## Mythical creatures
 

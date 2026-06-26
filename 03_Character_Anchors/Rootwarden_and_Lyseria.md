@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Rootwarden** is the overseer of the central tree within the Divine Wheel, currently referred to as the **Crownroot**.
+The **Rootwarden** is the overseer of the central tree within the Divine Wheel, currently referred to as the **Crownroot**. She resides in the circular sanctuary around the Crownroot rather than in one of the twelve divine domiciles.
 
 Publicly, she may be understood as a multi-affinity god, the keeper of outliers, or the divine figure responsible for those who do not fit neatly into a single domain.
 
@@ -23,6 +23,24 @@ Common public beliefs:
 - she is respected but poorly understood
 
 People may call her a god because that is the closest category they have.
+
+## Place within the Divine Wheel
+
+The Rootwarden does not rule one of the twelve wedge-shaped domiciles.
+
+Her place is the **central circular sanctuary** around the Crownroot. This area is neutral ground between the gods' domains.
+
+Possible visual details:
+
+- white-root gardens
+- pale flowers resembling Aster flowers
+- shallow mirror-like water around the trunk
+- root-bridges leading toward each divine domicile
+- sealed chambers beneath the island
+- attendants who wear no single god's colors
+
+The gods respect and tolerate her because the Crownroot stabilizes the Divine Wheel. They also feel uneasy around her because she is closer to the center than any of them and may understand the Crownroot in ways they do not.
+
 
 ## Root Permission
 

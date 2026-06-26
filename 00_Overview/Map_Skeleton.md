@@ -14,6 +14,7 @@ This file is meant to make the world easier to draw later. Exact geography can c
 | **Luminor** | Southern/southwestern cultural coast | Sunlit ports, Beaux-Arts cities, gardens | Lapula | Mosmaria, Passage De Lumiere, Temple of Athena |
 | **Truo Crua** | Mountain/underground corridor | Hills, caves, subterranean cities, rail tunnels | Midrel | Midrel Frisker Transport Station, Frisker Line, hill settlements |
 | **Astrolia** | Far ocean island nation | Mountain islands, observatories, night seas | Starhaven | Moonwake Isle, Meridian Towers, Celestial Archive |
+| **The Crowned Isle / Divine Wheel** | Sacred divine island-region | Half-physical radial island, distorted inner geography, central white-gold tree | The Crownroot Sanctuary | Twelve Divine Domiciles, outer pilgrimage waters, root-bridges |
 
 ## Simple map logic
 
@@ -25,6 +26,7 @@ This file is meant to make the world easier to draw later. Exact geography can c
 - Put **Luminor** on a sunny coast with ports and gardens.
 - Put **Truo Crua** under or beside a mountain range, ideally connecting several surface nations by tunnel.
 - Put **Astrolia** offshore, distant enough to feel mystical but important for sea travel and celestial navigation.
+- Put **The Crowned Isle** offshore or in an isolated sacred sea. It should be charted as a real place, but ordinary maps should not fully capture the inner Divine Wheel. Ships can approach its surrounding waters, but entry requires divine permission.
 
 ## Visual contrast guide
 
@@ -48,6 +50,7 @@ This file is meant to make the world easier to draw later. Exact geography can c
 - Luminor: rose/sun, grand railway arch, temple column.
 - Truo Crua: tunnel gate, pick, rail line.
 - Astrolia: star dome, crescent compass, observatory.
+- Crowned Isle / Divine Wheel: twelve-spoked ring, white-gold tree, crown-shaped roots.
 
 
 ## Naming note - Luminor

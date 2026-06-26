@@ -74,8 +74,15 @@ Working phrasing:
 
 ## Divine Wheel addition
 
-The gods currently dwell in a sacred radial island/region called **The Divine Wheel**. Each god has a domicile arranged around the central **Crownroot** tree.
+The gods currently dwell in a sacred radial island-region formally called **The Crowned Isle**. Most people call it **The Divine Wheel** because each god has a wedge-shaped domicile arranged around the central **Crownroot** tree.
 
-The Divine Wheel should eventually become a major visual map location, separate from but connected to the major nations.
+The Crowned Isle should become a major visual map location, separate from but connected to the major nations.
 
-The truth of the Crownroot may be lost to the gods. They believe it is the origin of their magic because it heals and empowers them, but it may actually be related to the Aster Forest.
+It is best treated as a **half-physical divine region**. The outer island can appear on maps and be approached by ships, but the inner Wheel distorts ordinary geography and cannot be freely entered. Divine Invitations, Root Permission, trial access, or rare pilgrimage permissions are required to pass beyond the outer limits.
+
+Each domicile should feel like a full divine city-domain rather than a single palace. The twelve wedges can contain courts, temples, housing, training grounds, libraries, gardens, trial areas, divine beasts, and domain-specific ecosystems.
+
+The Crownroot should have white bark, faint gold veins, pale star-like flowers, and twelve immense roots extending beneath the domiciles. The truth of the Crownroot may be lost to the gods. They believe it is the origin of their magic because it heals and empowers them, but it may actually be related to the Aster Forest.
+
+The Rootwarden resides in the circular sanctuary around the Crownroot rather than in one of the twelve domiciles. She is respected, tolerated, and quietly feared because she stands closer to the center than any god.
+

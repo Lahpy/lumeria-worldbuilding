@@ -37,6 +37,8 @@ Example:
 
 The invitation is prestigious. Many families, academies, noble houses, temples, and cities would treat it as a great honor.
 
+A true invitation also opens a permitted path to the **Crowned Isle**, commonly called the **Divine Wheel**. Without invitation, Root Permission, trial access, or rare pilgrimage permission, ordinary people cannot freely enter the inner Wheel.
+
 ## Accepting an invitation
 
 A person who accepts travels to the god's domicile and begins the trial process.
@@ -54,6 +56,8 @@ They may gain access to:
 - a possible path toward higher divine rank
 
 Accepting an invitation does not mean someone becomes a god. It means they enter the god's household or sphere of cultivation.
+
+Because each domicile is a full divine city-domain, the invited person may physically live there, study there, compete there, and be assigned duties there. This makes divine service feel like a social and political life, not only a spiritual title.
 
 ## Rejecting an invitation
 
@@ -84,6 +88,27 @@ A Forsworn is not necessarily evil.
 Publicly, the term carries stigma. It suggests someone broke faith with the gods, abandoned a sacred path, or refused to fulfill their assigned role.
 
 Privately, some Forsworn may have very good reasons for leaving.
+
+When someone becomes Forsworn, they are usually barred from their former domicile.
+
+Possible consequences:
+
+- their original invitation route closes
+- their rank is erased, sealed, or marked as abandoned
+- the domicile's gates reject them
+- divine servants are forbidden from assisting them
+- their name remains in divine records as a warning
+- their magic still carries traces of the divine path they abandoned
+
+Being Forsworn does not always mean being physically banned from the entire Crowned Isle. The severity depends on the reason for defection.
+
+Working severity scale:
+
+- **Refused** — rejected an invitation before entering; watched but not formally banned.
+- **Departed** — left a domicile without open hostility; unwelcome but not hunted.
+- **Forsworn** — broke with the divine path after belonging to it; barred from the former domicile.
+- **Fallen** — expelled for wrongdoing or failure; publicly disgraced.
+- **Severed** — bond forcibly cut; may be dangerous, cursed, or politically erased.
 
 ## Possible related terms
 

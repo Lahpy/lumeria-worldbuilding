@@ -34,9 +34,9 @@ The latest notes add a stronger divine-system foundation:
 - **Origin Magic** is the natural foundation beneath all magic.
 - Divine influence may be pressing too heavily on the natural flow of Origin Magic.
 - **Lyseria** may exist because Origin Magic overflowed at the Aster Forest.
-- The gods dwell on a radial divine island/region currently called **The Divine Wheel**.
-- The central tree is currently called the **Crownroot**.
-- The overseer of the Crownroot is currently called the **Rootwarden**.
+- The gods dwell on a radial half-physical divine island-region formally called **The Crowned Isle** and commonly called **The Divine Wheel**.
+- The central tree is currently called the **Crownroot** and has white bark, faint gold veins, pale star-like flowers, and twelve major roots feeding the divine domiciles.
+- The overseer of the Crownroot is currently called the **Rootwarden**; she resides in the circular sanctuary around the tree rather than in a normal divine domicile.
 - The gods may believe the Crownroot is the source of their magic, while the truth may connect it to the Aster Forest.
 - **Forsworn** is the working term for those who reject or defect from the divine path.
 - **Vivienne** may become Forsworn and eventually reject godhood in favor of creating her own settlement.
