@@ -26,3 +26,27 @@ The two main character anchors are:
 - **Vivienne Valemont**, The Ash Huntress - a noble-born mythical creature hunter tied to fire, ash, survival, precision, and finality.
 
 The world should remain beautiful, mysterious, and dangerous, with enough clear nations and cities to eventually support a visually rich map.
+
+## Recent brainstorm additions — divine system and Origin Magic
+
+The latest notes add a stronger divine-system foundation:
+
+- **Origin Magic** is the natural foundation beneath all magic.
+- Divine influence may be pressing too heavily on the natural flow of Origin Magic.
+- **Lyseria** may exist because Origin Magic overflowed at the Aster Forest.
+- The gods dwell on a radial divine island/region currently called **The Divine Wheel**.
+- The central tree is currently called the **Crownroot**.
+- The overseer of the Crownroot is currently called the **Rootwarden**.
+- The gods may believe the Crownroot is the source of their magic, while the truth may connect it to the Aster Forest.
+- **Forsworn** is the working term for those who reject or defect from the divine path.
+- **Vivienne** may become Forsworn and eventually reject godhood in favor of creating her own settlement.
+
+See:
+
+- `00_Overview/Current_Brainstorm_Snapshot.md`
+- `04_Systems_and_Lore/Origin_Magic_and_Divine_Influence.md`
+- `04_Systems_and_Lore/Divine_Wheel_and_Gods.md`
+- `04_Systems_and_Lore/Divine_Acts_Invitations_and_Forsworn.md`
+- `03_Character_Anchors/Rootwarden_and_Lyseria.md`
+- `05_Relationship_and_Story/Vivienne_Forsworn_and_Future_Town.md`
+- `02_Reference/Naming_and_Lore_Concepts_Divine_System.md`

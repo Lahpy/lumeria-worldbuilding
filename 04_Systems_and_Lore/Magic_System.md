@@ -589,3 +589,27 @@ Core.
 Essence.
 
 Nothing is fully hidden from her once she begins to understand it.
+
+## Addendum: Origin Magic
+
+The newest working term for the foundation beneath magic is **Origin Magic**.
+
+Origin Magic is the natural flow beneath all forms of magic in Lumeria. White Magic is currently understood as the refined expression closest to this origin.
+
+The gods did not create Origin Magic. They shaped and interpreted magic through divine domains, which led most civilizations to believe that divine magic is the highest or original form of magic.
+
+This is incomplete.
+
+Working hierarchy:
+
+```text
+Origin Magic
+↓
+White Magic
+↓
+Light Magic and other formal branches
+↓
+Elemental, divine, curse, healing, barrier, and specialized magic
+```
+
+Lyseria's existence may be tied to an overflow of Origin Magic in the Aster Forest caused by excessive divine influence over the natural magical flow of Lumeria.

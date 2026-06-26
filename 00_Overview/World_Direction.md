@@ -57,3 +57,25 @@ The old nations are not deleted. They are sorted into one of three categories:
 1. **Kept as major nations:** E'l Ancalen, Hazelmour, Namarion, Klazen, Luminor, Truo Crua, Astrolia.
 2. **Merged into stronger nations:** Alheim and Sylphora feed into Asterweald; Athea and Old Orenia feed into Hazelmour; Othorion and Saphera feed into Klazen; Mosmaria feeds into Luminor.
 3. **Demoted to future expansion or provinces:** Caradia, Endor, Eschburg, Evaria, and several idea-bank nations.
+
+## New central tension: Origin Magic under divine pressure
+
+The newest direction gives the world a stronger magical conflict.
+
+**Origin Magic** is the natural foundation beneath all magic in Lumeria. The gods did not create it. Instead, they shaped, interpreted, and distributed magic through their own divine domains.
+
+Over time, the gods' influence may have pressed too heavily onto the natural flow of Origin Magic. This strain is strongest at the **Aster Forest**, where Origin Magic is alleged to have stemmed from.
+
+Lyseria's existence may be the result of Origin Magic overflowing at its source.
+
+Working phrasing:
+
+> Lyseria is the world correcting itself in human form.
+
+## Divine Wheel addition
+
+The gods currently dwell in a sacred radial island/region called **The Divine Wheel**. Each god has a domicile arranged around the central **Crownroot** tree.
+
+The Divine Wheel should eventually become a major visual map location, separate from but connected to the major nations.
+
+The truth of the Crownroot may be lost to the gods. They believe it is the origin of their magic because it heals and empowers them, but it may actually be related to the Aster Forest.

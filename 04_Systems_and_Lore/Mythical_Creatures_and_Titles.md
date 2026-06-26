@@ -799,3 +799,17 @@ simply be someone returning when they promised they would.
 The story should always balance the mythic with the personal.
 
 That balance is what makes Lyseria and Vivienne feel like legends worth caring about.
+
+## Addendum: Mythical creature social range
+
+Mythical creatures should not all be treated as hostile monsters.
+
+Current working classification:
+
+- **Wild Mythics** — dangerous, territorial, instinctive, often natural-disaster-like.
+- **Intelligent Mythics** — capable of communication, memory, negotiation, pride, or culture.
+- **Civilized Mythics** — integrated into society as citizens, guardians, scholars, mounts, temple beings, or local powers.
+- **Tamed Mythics** — bonded or trained through difficult tradition, ritual, or affinity.
+- **Displaced/Corrupted Mythics** — dangerous because something has disrupted their natural state.
+
+Vivienne's role should involve judgment, not indiscriminate killing. She must know when a mythic creature must die, when it can coexist, and when it is only a symptom of something deeper.
